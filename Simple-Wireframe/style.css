@@ -1,0 +1,37 @@
+body{
+	margin: 0px auto;
+	width:1000px;
+}
+.bg{
+	background-color: lightblue;
+	text-align: center;
+	margin-top:8px;
+
+}
+.header div:nth-child(1),.header div:nth-child(2),.header div:nth-child(3){
+	height: 60px;
+}
+.left div:nth-child(1),.left div:nth-child(2){
+	height: 185px;
+}
+.left div:nth-child(3){
+	height: 330px;
+}
+.middle div:nth-child(1){
+	height: 230px;
+}
+.middle div:nth-child(2){
+	height: 478px;
+}
+.right div:nth-child(1){
+	height:160px;
+}
+.right div:nth-child(2){
+	height:335px;
+}
+.right div:nth-child(3){
+	height:205px;
+}
+.footer{
+	height: 100px;
+}
