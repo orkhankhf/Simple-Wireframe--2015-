@@ -1,1 +1,1 @@
-# Simple-Wireframe--2015-
+## HTML/CSS istifadə edərək düzəltdiyim ilk Wireframe
